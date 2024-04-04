@@ -1,50 +1,54 @@
 ---
 permalink: /
-title: "About"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an research associate at the Department of Computer Science, Sun Yat-sen University, China. I 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+## Short Bio
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am an associate professor at Sun Yat-sen University, China. I received both a Ph.D degree and a Ms.C degree at the University of York in 2014 and 2018, respectively, supervised by Prof. Andy Wellings. From 2014-2018, I was working as a research associate at York with Prof. Iain Bate, Prof. Leandro S. Indrusiak, and Prof. Wanli Chang. Since 2022, I joined the Sun Yat-sen University as an associate professor. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research interests include embedded and real-time systems, operating systems and domain-specific computer languages. Specially, my interest lies in design and verification of complex real-time systems, resource sharing technology in multi-/many core systems, deterministic systems, timing sensitive networking and safety-critical programming.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+
+Short Bio
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Shuai Zhao received a Ph.D. degree in computer science from the University of York in 2018. He is currently an associate professor at Sun Yat-sen University, China. His research interests include scheduling algorithms, multiprocessor resource sharing, schedulability analysis, and safety-critical programming languages. He can be reached at: zhaosh56@mail.sysu.edu.cn.
 
-Create content & metadata
+
+
+Teaching and Services
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- "*Compilation Theory*" and "*Compiler Construction*" for 3rd year undergraduates.
 
-**Markdown generator**
+- "*Embedded Systems*" for 1st year postgraduates.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- I am a TPC member of RTSS '24, DAC'24, RTSS BP track, RTAS industrial track, Euro DSD
 
-How to edit your site's GitHub repository
+- I am a frequent reviewer for RTSS, DAC, RTAS, EMSOFT, DATE, LCETS, ICCAD, CODE+ISSS, RTCAS, MICPRO.
+
+  
+
+Publications
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- Zhe Jiang; **Shuai Zhao**; Ran Wei; Yiyang Gao; Jing Li; “A Cache/Algorithm Co-design for Parallel Real-Time Systems with Data Dependency on Multi/Many-core System-on-Chips,” 61th Design Automation Conference (DAC), San Francisco, US, 2024.
+- **Shuai Zhao**; Nan Chen; Yinjie Fang; Zhao Li; Wanli Chang; “A universal method for task allocation on FP-FPS multiprocessor systems with spin locks,” 60th Design Automation Conference (DAC), San Francisco, US, 2023.
+- **Shuai Zhao**; Xiaotian Dai; Benjamin Lesage; Iain Bate; “Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency,” Proceedings of the 31st International Conference on Real-Time Networks and Systems (RTNS), Dortmund, Germany, 2023, 177-187. 
+- Nan Chen; **Shuai Zhao**; Ian Gray; Alan Burns; Siyuan Ji; Wanli Chang; “Precise response time analysis for multiple DAG tasks with intra-task priority assignment,” IEEE 29th Real-Time and Embedded Technology and Applications Symposium (RTAS), San Antonio, US, 2023.
+- [5] Zhe Jiang; Xiaotian Dai; Ran Wei; Ian Gray; Zonghua Gu; Qingling Zhao; **Shuai Zhao**; “NPRC-I/O: A NoC-based Real-Time I/O System with Reduced Contention and Enhanced Predictability,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 42(12), pp. 4629-4642, 2023.
+- **Shuai Zhao**; Xiaotian Dai; Iain Bate; “DAG scheduling and analysis on multi-core systems by modelling parallelism and dependency,” IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022, 33(12), pp. 4019-4038. 
+- [8] Nan Chen; **Shuai Zhao**; Ian Gray; Alan Burns; Siyuan Ji; Wanli Chang; “MSRP-FT: Reliable resource sharing on multiprocessor mixed-criticality systems,” 28th Real-Time and Embedded Technology and Applications Symposium (RTAS), Milano, Italy, 2022. **(Best Paper Candidate)**
+- [9] Wanli Chang; **Shuai Zhao**; Simon Burton; Haitong Wang; Ting Chen; Nan Chen; Neil Audsley; “Invited: Hardware/software co-synthesis and co-optimization for autonomous systems,” Design Automation Conference (DAC), San Francisco, US, 2021.
+- [10] Zhe Jiang; **Shuai Zhao**; Ran Wei; Dawei Yang; Richard Paterson; Nan Guan; Yan Zhuang; Neil Audsly; “Bridging the pragmatic gaps for mixed-criticality systems in the automotive industry,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 41(4), pp. 1116-1129, 2021.
+- **Shuai Zhao**; Xiaotian Dai; Iain Bate; Alan Burns; Wanli Chang;“DAG scheduling and analysis on multiprocessor systems: exploitation of parallelism and dependency,” Real-Time Systems Symposium (RTSS), Houston, US, 2020.
+- **Shuai Zhao**; Zhe Jiang; Xiaotian Dai; Iain Bate; Ibrahim Habli; Wanli Chang; “Timing-accurate general-purpose I/O for multi-and many-core systems: scheduling and hardware support,” 57th Design Automation Conference (DAC), San Francisco, US, 2020.
+- **Shuai Zhao**; Wanli Chang; Ran Wei; Weichen Liu; Nan Guan; Alan Burns; Andy Wellings; “Priority assignment on partitioned multiprocessor systems with shared resources,” IEEE Transactions on Computers (TC), 2020, 70(7), pp. 1006-1018.
+- **Shuai Zhao**; Jorge Garrido; Ran Wei; Alan Burns; Andy Wellings; Juan A. de la Puente; “A complete run-time overhead-aware schedulability analysis for MrsP under nested resources,” Journal of Systems and Software (JSS), vol. 159, pp. 110449, 2020.
+- [15] Xiaotian Dai; **Shuai Zhao**; Yu Jiang; Xun Jiao; Xiaobo Sharon Hu; Wanli Chang; “Fixed-priority scheduling and controller co-design for time-sensitive networks,” Proceedings of the 39th International Conference on Computer-Aided Design (ICCAD), New York, US, 2020. **(Best Paper Candidate)**
+- Wanli Chang; Debayan Roy; **Shuai Zhao**; Anuradha Annaswamy; Samarjit Chakraborty; “CPS-oriented modeling and control of traﬀic signals using adaptive back pressure,” Design Automation and Test in Europe Conference (DATE), 2020. **(Best Paper Candidate)**
+- Zhe Jiang; **Shuai Zhao**; Pan Dong; Dawei Yang; Ran Wei; Nan Guan; Neil Audsley; “Re-thinking mixed-criticality architecture for automotive industry,” 2020 IEEE 38th International Conference on Computer Design (ICCD), Hartford, US, 2020.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
