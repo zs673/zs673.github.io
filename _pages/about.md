@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-## Short Bio
 
+
+
+About
+------
 I am an associate professor at Sun Yat-sen University, China. I received both a Ph.D degree and a Ms.C degree at the University of York in 2014 and 2018, respectively, supervised by Prof. Andy Wellings. From 2014-2018, I was working as a research associate at York with Prof. Iain Bate, Prof. Leandro S. Indrusiak, and Prof. Wanli Chang. Since 2022, I joined the Sun Yat-sen University as an associate professor. 
 
 My research interests include embedded and real-time systems, operating systems and domain-specific computer languages. Specially, my interest lies in design and verification of complex real-time systems, resource sharing technology in multi-/many core systems, deterministic systems, timing sensitive networking and safety-critical programming.
