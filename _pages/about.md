@@ -26,7 +26,7 @@ Shuai Zhao received a Ph.D. degree in computer science from the University of Yo
 Services
 ------
 - I am a TPC member of RTSS '24, DAC'24, RTSS BP track, RTAS industrial track, Euro DSD
-- I am a frequent reviewer of RTSS, DAC, RTAS, EMSOFT, DATE, LCETS, ICCAD, CODE+ISSS, RTCAS, MICPRO, JSA.
+- I am a frequent reviewer of RTSS, DAC, RTAS, EMSOFT, DATE, LCETS, ICCAD, CODE+ISSS, RTCAS, MICPRO, TCAD, JSA.
 
 
 
