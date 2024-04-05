@@ -9,10 +9,9 @@ redirect_from:
 
 
 
-
 About
 ------
-I am an associate professor at Sun Yat-sen University, China. I received both a Ph.D degree and a Ms.C degree at the University of York in 2014 and 2018, respectively, supervised by Prof. Andy Wellings. From 2014 to 2018, I was working as a research associate on a range of projects at York with Prof. Iain Bate, Prof. Leandro S. Indrusiak, and Prof. Wanli Chang. Since 2022, I joined the Sun Yat-sen University as an associate professor at the Department of Computer Science. 
+I am an associate professor at Sun Yat-sen University, China. I received both a Ph.D degree and a Ms.C degree at the University of York in 2014 and 2018, respectively, supervised by Prof. Andy Wellings. From 2014 to 2018, I was working as a research associate on a range of projects at York with Prof. Iain Bate, Prof. Leandro S. Indrusiak, and Prof. Wanli Chang. Since 2022, I joined the Sun Yat-sen University as an associate professor at [Robotic and Intelligence Computing Lab @SYSU](https://www.usilab.cn/), in the Department of Computer Science. 
 
 My research interests include embedded and real-time systems, operating systems and domain-specific computer languages. Specially, my interest lies in design and verification of complex real-time systems, resource sharing technology in multi/many-core systems, deterministic systems, timing sensitive networks and safety-critical programming.
 
@@ -31,8 +30,8 @@ Services
 
 
 
-## Teaching
-
+Teaching
+------
 - "*Compilation Theory*" and "*Compiler Construction*" for 3rd year undergraduates.
 - "*Embedded Systems*" for 1st year postgraduates.
 
@@ -40,7 +39,6 @@ Services
 
 Publications
 ------
-
 - Zhe Jiang; **Shuai Zhao**; Ran Wei; Yiyang Gao; Jing Li; “A Cache/Algorithm Co-design for Parallel Real-Time Systems with Data Dependency on Multi/Many-core System-on-Chips,” 61th Design Automation Conference (DAC), San Francisco, US, 2024.
 - **Shuai Zhao**; Nan Chen; Yinjie Fang; Zhao Li; Wanli Chang; “A universal method for task allocation on FP-FPS multiprocessor systems with spin locks,” 60th Design Automation Conference (DAC), San Francisco, US, 2023.
 - **Shuai Zhao**; Xiaotian Dai; Benjamin Lesage; Iain Bate; “Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency,” Proceedings of the 31st International Conference on Real-Time Networks and Systems (RTNS), Dortmund, Germany, 2023, 177-187. 
@@ -57,4 +55,3 @@ Publications
 - Xiaotian Dai; **Shuai Zhao**; Yu Jiang; Xun Jiao; Xiaobo Sharon Hu; Wanli Chang; “Fixed-priority scheduling and controller co-design for time-sensitive networks,” Proceedings of the 39th International Conference on Computer-Aided Design (ICCAD), New York, US, 2020. **(Best Paper Candidate)**
 - Wanli Chang; Debayan Roy; **Shuai Zhao**; Anuradha Annaswamy; Samarjit Chakraborty; “CPS-oriented modeling and control of traﬀic signals using adaptive back pressure,” Design Automation and Test in Europe Conference (DATE), 2020. **(Best Paper Candidate)**
 - Zhe Jiang; **Shuai Zhao**; Pan Dong; Dawei Yang; Ran Wei; Nan Guan; Neil Audsley; “Re-thinking mixed-criticality architecture for automotive industry,” 2020 IEEE 38th International Conference on Computer Design (ICCD), Hartford, US, 2020.
-
