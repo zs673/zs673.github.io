@@ -24,7 +24,7 @@ author:
   avatar           : "shuai.jpg"
   name             : "Shuai Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in Embedded and Real-Time Systems"
+  bio              : "Researcher in Real-Time Systems"
   location         : "Guangzhou, China"
   employer         : "Sun Yat-sen University"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=BzXwx8YAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0721-8021"
+  orcid            : "orcid=0000-0003-0721-8021" # "https://orcid.org/my-orcid?orcid=0000-0003-0721-8021"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
