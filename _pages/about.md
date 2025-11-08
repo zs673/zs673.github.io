@@ -39,6 +39,14 @@ Teaching
 
 Publications
 ------
+- Zhanshang Nie, Wenbo Wang, Xuanming Liu, Yue Zhang, Zhendong Chen, Zirui Wang, Kai Huang, **Shuai Zhao**; "An Environment-Aware Verification Framework for LLM-Generated Robot Control Programs", Design, Automation and Test in Europe Conference (DATE), Verona, Italy, 2026.
+- **Shuai Zhao** Jieyu Jiang, Shenlin Cai, Yaowei Liang, Chen Jie, Yinjie Fang, Wei Zhang, Guoquan Zhang, Yaoyao Gu, Xiang Xiao, Wei Qin, Xiangzhen Ouyang, Wanli Chang; “Tight Cache Contention Analysis for WCET Estimation on Multicore Systems”, 46th IEEE Real-Time Systems Symposium (RTSS), Boston, US, 2025.
+- **Shuai Zhao**, Yiyang Gao, Zhiyang Lin, Boyang Li, Xinwei Fang, Zhe Jiang, Nan Guan; “Response Time Analysis for Probabilistic DAG Tasks in Multicore Real-Time Systems”, 46th IEEE Real-Time Systems Symposium (RTSS), Boston, US, 2025.
+- Nan Chen, Xiaotian Dai, Tong Cheng, Alan Burns, Iain, Bate, **Shuai Zhao**; “LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems”, 46th IEEE Real-Time Systems Symposium (RTSS), Boston, US, 2025 **(Outstanding Paper Award)**
+- Dean You, Jieyu Jiang, Xiaoxuan Wang, Yushu Du, Zhihang Tan, Wenbo Xu, Hui Wang, Jiapeng Guan, Ran Wei, **Shuai Zhao**, Zhe Jiang*; "MERE: Hardware-software co-design for masking cache miss latency in embedded processors", ACM Transactions on Embedded Computing Systems (TECS), 2025.
+- Huixuan Yi, Yuanhai Zhang, Zhiyang Lin, Haoran Chen, Yiyang Gao, Xiaotian Dai, **Shuai Zhao**; “A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions”, Journal of Systems Architecture (JSA), 2025.
+- **Shuai Zhao**, Hanzhi Xu, Nan Chen, Ruoxian Su, Wanli Chang; “FRAP: A Flexible Resource Accessing Protocol for Multiprocessor Real-Time Systems”, 45th IEEE Real-Time Systems Symposium (RTSS), York, UK, 2024 **(Outstanding Paper Award)**
+- Zhe Jiang, **Shuai Zhao**, Ran Wei, Xin Si, Gang Chen, Nan Guan; “ROTA-I/O: Hardware/Algorithm Co-design for Real-Time I/O Control with Improved Timing Accuracy and Robustness”, 45th IEEE Real-Time Systems Symposium (RTSS), York, UK, 2024
 - Zhe Jiang; **Shuai Zhao**; Ran Wei; Yiyang Gao; Jing Li; “A Cache/Algorithm Co-design for Parallel Real-Time Systems with Data Dependency on Multi/Many-core System-on-Chips,” 61th Design Automation Conference (DAC), San Francisco, US, 2024.
 - **Shuai Zhao**; Nan Chen; Yinjie Fang; Zhao Li; Wanli Chang; “A universal method for task allocation on FP-FPS multiprocessor systems with spin locks,” 60th Design Automation Conference (DAC), San Francisco, US, 2023.
 - **Shuai Zhao**; Xiaotian Dai; Benjamin Lesage; Iain Bate; “Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency,” Proceedings of the 31st International Conference on Real-Time Networks and Systems (RTNS), Dortmund, Germany, 2023, 177-187. 
