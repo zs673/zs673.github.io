@@ -13,7 +13,7 @@ About
 ------
 I am an associate professor at Sun Yat-sen University, China. I received both a Ph.D degree and a Ms.C degree at the University of York in 2014 and 2018, respectively, supervised by Prof. Andy Wellings and Prof. Alan Burns. From 2014 to 2018, I was working as a research associate on a range of projects at York with Prof. Iain Bate, Prof. Leandro S. Indrusiak, and Prof. Wanli Chang. Since 2022, I joined the Sun Yat-sen University as an associate professor at [Robotic and Intelligence Computing Lab @SYSU](https://www.usilab.cn/), in the Department of Computer Science. 
 
-My research interests include embedded and real-time systems, operating systems and domain-specific computer languages. Specially, my interest lies in design and verification of complex real-time systems, resource sharing technology in multi/many-core systems, deterministic systems, timing sensitive networks and safety-critical programming.
+My research interests include embedded and real-time systems, operating systems and domain-specific computer languages. Specifically, my interest lies in the design and verification of complex real-time systems, resource-sharing technology in multi-core systems, deterministic systems, timing-sensitive networks, and safety-critical programming.
 
 
 
@@ -25,7 +25,7 @@ Shuai Zhao received a Ph.D. degree in computer science from the University of Yo
 
 Services
 ------
-- I am a TPC member of RTSS '24, DAC'24, RTSS BP track, RTAS industrial track, Euro DSD
+- I am a TPC member of DAC'26, RTSS'24, DAC'24, RTSS BP track, RTAS industrial track, Euro DSD
 - I am a frequent reviewer of RTSS, DAC, RTAS, EMSOFT, DATE, LCETS, ICCAD, CODE+ISSS, RTCAS, MICPRO, TCAD, JSA.
 
 
@@ -39,6 +39,10 @@ Teaching
 
 Publications
 ------
+- Y Zhang, **Shuai Zhao**, K Huang; "DAG Scheduling and Analysis in Multicore Real-Time Systems via Sub-Graph Division", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026. (TCAD)
+- **Shuai Zhao**, C Jie, Y Liang, M Cui, X Dai, N Chen, "Beyond Exact: Tight WCET Analysis of GPU Kernels with Branch Divergence", ACM/IEEE Design Automation Conference, 2026. (DAC)
+- Y Zhang, S He, R Gou, M Cui, B Li, **Shuai Zhao**, K Huang. "Exploiting Dependency and Parallelism: Real-Time Scheduling and Analysis for GPU Tasks", ACM/IEEE Design Automation Conference, 2026. (DAC)
+- Z Jiang, X Wang, Z Guo, R Jiang, P Dong, **Shuai Zhao**, N Guan; "MCS3: A Mixed-Criticality System with Suspension-awareness and Semi-clairvoyance for Edge Computing", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026. (TCAD)
 - Zhanshang Nie, Wenbo Wang, Xuanming Liu, Yue Zhang, Zhendong Chen, Zirui Wang, Kai Huang, **Shuai Zhao**; "An Environment-Aware Verification Framework for LLM-Generated Robot Control Programs", Design, Automation and Test in Europe Conference (DATE), Verona, Italy, 2026.
 - **Shuai Zhao** Jieyu Jiang, Shenlin Cai, Yaowei Liang, Chen Jie, Yinjie Fang, Wei Zhang, Guoquan Zhang, Yaoyao Gu, Xiang Xiao, Wei Qin, Xiangzhen Ouyang, Wanli Chang; “Tight Cache Contention Analysis for WCET Estimation on Multicore Systems”, 46th IEEE Real-Time Systems Symposium (RTSS), Boston, US, 2025.
 - **Shuai Zhao**, Yiyang Gao, Zhiyang Lin, Boyang Li, Xinwei Fang, Zhe Jiang, Nan Guan; “Response Time Analysis for Probabilistic DAG Tasks in Multicore Real-Time Systems”, 46th IEEE Real-Time Systems Symposium (RTSS), Boston, US, 2025.
