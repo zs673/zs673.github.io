@@ -39,10 +39,10 @@ Teaching
 
 Publications
 ------
-- Y Zhang, **Shuai Zhao**, K Huang; "DAG Scheduling and Analysis in Multicore Real-Time Systems via Sub-Graph Division", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026. (TCAD)
-- **Shuai Zhao**, C Jie, Y Liang, M Cui, X Dai, N Chen, "Beyond Exact: Tight WCET Analysis of GPU Kernels with Branch Divergence", ACM/IEEE Design Automation Conference, 2026. (DAC)
-- Y Zhang, S He, R Gou, M Cui, B Li, **Shuai Zhao**, K Huang. "Exploiting Dependency and Parallelism: Real-Time Scheduling and Analysis for GPU Tasks", ACM/IEEE Design Automation Conference, 2026. (DAC)
-- Z Jiang, X Wang, Z Guo, R Jiang, P Dong, **Shuai Zhao**, N Guan; "MCS3: A Mixed-Criticality System with Suspension-awareness and Semi-clairvoyance for Edge Computing", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026. (TCAD)
+- Y Zhang, **Shuai Zhao**, K Huang; "DAG Scheduling and Analysis in Multicore Real-Time Systems via Sub-Graph Division", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. 
+- **Shuai Zhao**, C Jie, Y Liang, M Cui, X Dai, N Chen, "Beyond Exact: Tight WCET Analysis of GPU Kernels with Branch Divergence", Design Automation Conference (DAC), 2026. 
+- Y Zhang, S He, R Gou, M Cui, B Li, **Shuai Zhao**, K Huang. "Exploiting Dependency and Parallelism: Real-Time Scheduling and Analysis for GPU Tasks", Design Automation Conference (DAC), 2026. 
+- Z Jiang, X Wang, Z Guo, R Jiang, P Dong, **Shuai Zhao**, N Guan; "MCS3: A Mixed-Criticality System with Suspension-awareness and Semi-clairvoyance for Edge Computing", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026. 
 - Zhanshang Nie, Wenbo Wang, Xuanming Liu, Yue Zhang, Zhendong Chen, Zirui Wang, Kai Huang, **Shuai Zhao**; "An Environment-Aware Verification Framework for LLM-Generated Robot Control Programs", Design, Automation and Test in Europe Conference (DATE), Verona, Italy, 2026.
 - **Shuai Zhao** Jieyu Jiang, Shenlin Cai, Yaowei Liang, Chen Jie, Yinjie Fang, Wei Zhang, Guoquan Zhang, Yaoyao Gu, Xiang Xiao, Wei Qin, Xiangzhen Ouyang, Wanli Chang; “Tight Cache Contention Analysis for WCET Estimation on Multicore Systems”, 46th IEEE Real-Time Systems Symposium (RTSS), Boston, US, 2025.
 - **Shuai Zhao**, Yiyang Gao, Zhiyang Lin, Boyang Li, Xinwei Fang, Zhe Jiang, Nan Guan; “Response Time Analysis for Probabilistic DAG Tasks in Multicore Real-Time Systems”, 46th IEEE Real-Time Systems Symposium (RTSS), Boston, US, 2025.
