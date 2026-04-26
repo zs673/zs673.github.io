@@ -1,0 +1,282 @@
+- year: 2026
+  type: journal
+  label: TCAD
+  rank: CCF-A
+  citation: |-
+    Y Zhang, **Shuai Zhao**, K Huang; "DAG Scheduling and Analysis in Multicore Real-Time Systems via Sub-Graph Division", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
+- year: 2026
+  type: conference
+  label: DAC'26
+  rank: CCF-A
+  citation: |-
+    **Shuai Zhao**, C Jie, Y Liang, M Cui, X Dai, N Chen, "Beyond Exact: Tight WCET Analysis of GPU Kernels with Branch Divergence", Design Automation Conference (DAC), 2026.
+- year: 2026
+  type: conference
+  label: DAC'26
+  rank: CCF-A
+  citation: |-
+    Y Zhang, S He, R Gou, M Cui, B Li, **Shuai Zhao**, K Huang. "Exploiting Dependency and Parallelism: Real-Time Scheduling and Analysis for GPU Tasks", Design Automation Conference (DAC), 2026.
+- year: 2026
+  type: journal
+  label: TCAD
+  rank: CCF-A
+  citation: |-
+    Z Jiang, X Wang, Z Guo, R Jiang, P Dong, **Shuai Zhao**, N Guan; "MCS3: A Mixed-Criticality System with Suspension-awareness and Semi-clairvoyance for Edge Computing", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
+- year: 2026
+  type: conference
+  label: DATE'26
+  rank: CCF-B
+  citation: |-
+    Zhanshang Nie, Wenbo Wang, Xuanming Liu, Yue Zhang, Zhendong Chen, Zirui Wang, Kai Huang, **Shuai Zhao**; "An Environment-Aware Verification Framework for LLM-Generated Robot Control Programs", Design, Automation and Test in Europe Conference (DATE), Verona, Italy, 2026.
+- year: 2025
+  type: conference
+  label: RTSS'25
+  rank: CCF-A
+  citation: |-
+    **Shuai Zhao** Jieyu Jiang, Shenlin Cai, Yaowei Liang, Chen Jie, Yinjie Fang, Wei Zhang, Guoquan Zhang, Yaoyao Gu, Xiang Xiao, Wei Qin, Xiangzhen Ouyang, Wanli Chang; “Tight Cache Contention Analysis for WCET Estimation on Multicore Systems”, 46th IEEE Real-Time Systems Symposium (RTSS), Boston, US, 2025.
+- year: 2025
+  type: conference
+  label: RTSS'25
+  rank: CCF-A
+  citation: |-
+    **Shuai Zhao**, Yiyang Gao, Zhiyang Lin, Boyang Li, Xinwei Fang, Zhe Jiang, Nan Guan; “Response Time Analysis for Probabilistic DAG Tasks in Multicore Real-Time Systems”, 46th IEEE Real-Time Systems Symposium (RTSS), Boston, US, 2025.
+- year: 2025
+  type: conference
+  label: RTSS'25
+  rank: CCF-A
+  citation: |-
+    Nan Chen, Xiaotian Dai, Tong Cheng, Alan Burns, Iain, Bate, **Shuai Zhao**; “LEFT-RS: A Lock-Free Fault-Tolerant Resource Sharing Protocol for Multicore Real-Time Systems”, 46th IEEE Real-Time Systems Symposium (RTSS), Boston, US, 2025 **(Outstanding Paper Award)**
+- year: 2025
+  type: journal
+  label: TECS
+  rank: CCF-B
+  citation: |-
+    Dean You, Jieyu Jiang, Xiaoxuan Wang, Yushu Du, Zhihang Tan, Wenbo Xu, Hui Wang, Jiapeng Guan, Ran Wei, **Shuai Zhao**, Zhe Jiang*; "MERE: Hardware-software co-design for masking cache miss latency in embedded processors", ACM Transactions on Embedded Computing Systems (TECS), 2025.
+- year: 2025
+  type: conference
+  label: DAC'25
+  rank: CCF-A
+  citation: |-
+    Renshuang Jiang, Pan Dong, Zhenling Duan, Yu Shi, Xiaoxiang Fang, Yan Ding, Jun Ma, **Shuai Zhao**, Zhe Jiang; "Unlocking a New Rust Programming Experience: Fast and Slow Thinking with LLMs to Conquer Undefined Behaviors", Design Automation Conference (DAC), 2025, pp. 1-7.
+- year: 2025
+  type: conference
+  label: DAC'25
+  rank: CCF-A
+  citation: |-
+    Jie Zhou, Youshu Ji, Ning Wang, Yuchen Hu, Xinyao Jiao, Bingkun Yao, Xinwei Fang, **Shuai Zhao**, Nan Guan, Zhe Jiang; "Insights from Rights and Wrongs: A Large Language Model for Solving Assertion Failures in RTL Design", Design Automation Conference (DAC), 2025, pp. 1-7.
+- year: 2025
+  type: conference
+  label: ICCAD'25
+  rank: CCF-B
+  citation: |-
+    Junhao Ye, Yuchen Hu, Ke Xu, Dingrong Pan, Qichun Chen, Jie Zhou, **Shuai Zhao**, Xinwei Fang, Xi Wang, Nan Guan, Zhe Jiang; "From Concept to Practice: an Automated LLM-aided UVM Machine for RTL Verification", International Conference on Computer-Aided Design (ICCAD), 2025, pp. 1-9.
+- year: 2025
+  type: journal
+  label: JSA
+  rank: CCF-B
+  citation: |-
+    Huixuan Yi, Yuanhai Zhang, Zhiyang Lin, Haoran Chen, Yiyang Gao, Xiaotian Dai, **Shuai Zhao**; “A cache-aware DAG scheduling method on multicores: Exploiting node affinity and deferred executions”, Journal of Systems Architecture (JSA), 2025.
+- year: 2025
+  type: journal
+  label: JSA
+  rank: CCF-B
+  citation: |-
+    Boyang Li, Siheng Ren, **Shuai Zhao**, Mingyue Cui, Kai Huang; "FedPillarNet: Unifying personalized and global features for federated 3D LiDAR object detection", Journal of Systems Architecture (JSA), 168, pp. 103584, 2025.
+- year: 2025
+  type: journal
+  label: TCAD
+  rank: CCF-A
+  citation: |-
+    Qingqiang He, Nan Guan, **Shuai Zhao**, Mingsong Lv; "Multipath Bound for DAG Tasks", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 44(5), pp. 1676-1689, 2025.
+- year: 2024
+  type: conference
+  label: RTSS'24
+  rank: CCF-A
+  citation: |-
+    **Shuai Zhao**, Hanzhi Xu, Nan Chen, Ruoxian Su, Wanli Chang; “FRAP: A Flexible Resource Accessing Protocol for Multiprocessor Real-Time Systems”, 45th IEEE Real-Time Systems Symposium (RTSS), York, UK, 2024 **(Outstanding Paper Award)**
+- year: 2024
+  type: conference
+  label: RTSS'24
+  rank: CCF-A
+  citation: |-
+    Zhe Jiang, **Shuai Zhao**, Ran Wei, Xin Si, Gang Chen, Nan Guan; “ROTA-I/O: Hardware/Algorithm Co-design for Real-Time I/O Control with Improved Timing Accuracy and Robustness”, 45th IEEE Real-Time Systems Symposium (RTSS), York, UK, 2024
+- year: 2024
+  type: conference
+  label: DAC'24
+  rank: CCF-A
+  citation: |-
+    Zhe Jiang; **Shuai Zhao**; Ran Wei; Yiyang Gao; Jing Li; “A Cache/Algorithm Co-design for Parallel Real-Time Systems with Data Dependency on Multi/Many-core System-on-Chips,” 61th Design Automation Conference (DAC), San Francisco, US, 2024.
+- year: 2024
+  type: journal
+  label: JSA
+  rank: CCF-B
+  citation: |-
+    Yuanhai Zhang, **Shuai Zhao**, Gang Chen, Haoyu Luo, Kai Huang; “Timing-accurate scheduling and allocation for parallel I/O operations in real-time systems,” Journal of Systems Architecture (JSA), 152, pp. 103158, 2024.
+- year: 2024
+  type: conference
+  label: ASAP'24
+  rank: CCF-C
+  citation: |-
+    Yuanhai Zhang, **Shuai Zhao**, Gang Chen, Kai Huang; "Fault-tolerant DAG Scheduling with Runtime Reconfiguration on Multicore Real-Time Systems", IEEE International Conference on Application-Specific Systems, Architectures, and Processors (ASAP), 2024, pp. 101-109.
+- year: 2024
+  type: conference
+  label: ICRA'24
+  rank: CCF-B
+  citation: |-
+    Mingyue Cui, Mingjian Feng, Junhua Long, Daosong Hu, **Shuai Zhao**, Kai Huang; "A Du-Octree based Cross-Attention Model for LiDAR Geometry Compression", IEEE International Conference on Robotics and Automation (ICRA), 2024, pp. 3010-3016.
+- year: 2024
+  type: conference
+  label: Internetware'24
+  rank: CCF-C
+  citation: |-
+    Ruoxian Su, Hanzhi Xu, Jieyu Jiang, **Shuai Zhao**; "Resource-Aware Task Allocation on Mixed-Criticality Systems: a Task-Splitting Approach", Asia-Pacific Symposium on Internetware (Internetware), 2024, pp. 135-146.
+- year: 2024
+  type: conference
+  label: IROS'24
+  rank: CCF-C
+  citation: |-
+    Han Liu, Tian Liu, Mingyue Cui, Yunxiao Shan, **Shuai Zhao**, Kai Huang; "An Efficient Position Reconfiguration Approach for Maximizing Lifetime of Fixed-wing Swarm Drones", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024, pp. 13722-13728.
+- year: 2023
+  type: conference
+  label: DAC'23
+  rank: CCF-A
+  citation: |-
+    **Shuai Zhao**; Nan Chen; Yinjie Fang; Zhao Li; Wanli Chang; “A universal method for task allocation on FP-FPS multiprocessor systems with spin locks,” 60th Design Automation Conference (DAC), San Francisco, US, 2023.
+- year: 2023
+  type: conference
+  label: RTNS'23
+  rank: CCF-N/A
+  citation: |-
+    **Shuai Zhao**; Xiaotian Dai; Benjamin Lesage; Iain Bate; “Cache-Aware Allocation of Parallel Jobs on Multi-cores based on Learned Recency,” Proceedings of the 31st International Conference on Real-Time Networks and Systems (RTNS), Dortmund, Germany, 2023, 177-187.
+- year: 2023
+  type: conference
+  label: RTAS'23
+  rank: CCF-B
+  citation: |-
+    Nan Chen; **Shuai Zhao**; Ian Gray; Alan Burns; Siyuan Ji; Wanli Chang; “Precise response time analysis for multiple DAG tasks with intra-task priority assignment,” IEEE 29th Real-Time and Embedded Technology and Applications Symposium (RTAS), San Antonio, US, 2023.
+- year: 2023
+  type: journal
+  label: TCAD
+  rank: CCF-A
+  citation: |-
+    Zhe Jiang; Xiaotian Dai; Ran Wei; Ian Gray; Zonghua Gu; Qingling Zhao; **Shuai Zhao**; “NPRC-I/O: A NoC-based Real-Time I/O System with Reduced Contention and Enhanced Predictability,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 42(12), pp. 4629-4642, 2023.
+- year: 2023
+  type: journal
+  label: JSA
+  rank: CCF-B
+  citation: |-
+    Yuanhai Zhang, Zijin Xu, Yibo Zhang, Nan Guan, **Shuai Zhao**, Gang Chen, Kai Huang; "FTSC: Fault-tolerant scheduling and control co-design for distributed real-time system", Journal of Systems Architecture (JSA), 140, pp. 102900, 2023.
+- year: 2023
+  type: conference
+  label: RTSS'23
+  rank: CCF-A
+  citation: |-
+    Yinjie Fang, **Shuai Zhao**, Yili Guo, Wanli Chang; "Brief Industry Paper: A DAG Generator with Full Topology Coverage", Real-Time Systems Symposium (RTSS), 2023, pp. 424-427.
+- year: 2022
+  type: journal
+  label: TPDS
+  rank: CCF-A
+  citation: |-
+    **Shuai Zhao**; Xiaotian Dai; Iain Bate; “DAG scheduling and analysis on multi-core systems by modelling parallelism and dependency,” IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022, 33(12), pp. 4019-4038.
+- year: 2022
+  type: conference
+  label: RTAS'22
+  rank: CCF-B
+  citation: |-
+    Nan Chen; **Shuai Zhao**; Ian Gray; Alan Burns; Siyuan Ji; Wanli Chang; “MSRP-FT: Reliable resource sharing on multiprocessor mixed-criticality systems,” 28th Real-Time and Embedded Technology and Applications Symposium (RTAS), Milano, Italy, 2022. **(Best Paper Candidate)**
+- year: 2021
+  type: conference
+  label: DAC'21
+  rank: CCF-A
+  citation: |-
+    Wanli Chang; **Shuai Zhao**; Simon Burton; Haitong Wang; Ting Chen; Nan Chen; Neil Audsley; “Invited: Hardware/software co-synthesis and co-optimization for autonomous systems,” Design Automation Conference (DAC), San Francisco, US, 2021.
+- year: 2021
+  type: journal
+  label: TCAD
+  rank: CCF-A
+  citation: |-
+    Zhe Jiang; **Shuai Zhao**; Ran Wei; Dawei Yang; Richard Paterson; Nan Guan; Yan Zhuang; Neil Audsly; “Bridging the pragmatic gaps for mixed-criticality systems in the automotive industry,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 41(4), pp. 1116-1129, 2021.
+- year: 2021
+  type: conference
+  label: RTAS'21
+  rank: CCF-B
+  citation: |-
+    Xiaotian Dai, **Shuai Zhao**, Iain Bate, Alan Burns, Xing Guo, Wanli Chang; "Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems - Requirements and Open Challenges", Real-Time and Embedded Technology and Applications Symposium (RTAS), 2021, pp. 313-316.
+- year: 2020
+  type: conference
+  label: RTSS'20
+  rank: CCF-A
+  citation: |-
+    **Shuai Zhao**; Xiaotian Dai; Iain Bate; Alan Burns; Wanli Chang;“DAG scheduling and analysis on multiprocessor systems: exploitation of parallelism and dependency,” Real-Time Systems Symposium (RTSS), Houston, US, 2020.
+- year: 2020
+  type: conference
+  label: DAC'20
+  rank: CCF-A
+  citation: |-
+    **Shuai Zhao**; Zhe Jiang; Xiaotian Dai; Iain Bate; Ibrahim Habli; Wanli Chang; “Timing-accurate general-purpose I/O for multi-and many-core systems: scheduling and hardware support,” 57th Design Automation Conference (DAC), San Francisco, US, 2020.
+- year: 2020
+  type: journal
+  label: TC
+  rank: CCF-A
+  citation: |-
+    **Shuai Zhao**; Wanli Chang; Ran Wei; Weichen Liu; Nan Guan; Alan Burns; Andy Wellings; “Priority assignment on partitioned multiprocessor systems with shared resources,” IEEE Transactions on Computers (TC), 2020, 70(7), pp. 1006-1018.
+- year: 2020
+  type: journal
+  label: JSS
+  rank: CCF-B
+  citation: |-
+    **Shuai Zhao**; Jorge Garrido; Ran Wei; Alan Burns; Andy Wellings; Juan A. de la Puente; “A complete run-time overhead-aware schedulability analysis for MrsP under nested resources,” Journal of Systems and Software (JSS), vol. 159, pp. 110449, 2020.
+- year: 2020
+  type: conference
+  label: ICCAD'20
+  rank: CCF-B
+  citation: |-
+    Xiaotian Dai; **Shuai Zhao**; Yu Jiang; Xun Jiao; Xiaobo Sharon Hu; Wanli Chang; “Fixed-priority scheduling and controller co-design for time-sensitive networks,” Proceedings of the 39th International Conference on Computer-Aided Design (ICCAD), New York, US, 2020. **(Best Paper Candidate)**
+- year: 2020
+  type: conference
+  label: DATE'20
+  rank: CCF-B
+  citation: |-
+    Wanli Chang; Debayan Roy; **Shuai Zhao**; Anuradha Annaswamy; Samarjit Chakraborty; “CPS-oriented modeling and control of traﬀic signals using adaptive back pressure,” Design Automation and Test in Europe Conference (DATE), 2020. **(Best Paper Candidate)**
+- year: 2020
+  type: conference
+  label: ICCD'20
+  rank: CCF-B
+  citation: |-
+    Zhe Jiang; **Shuai Zhao**; Pan Dong; Dawei Yang; Ran Wei; Nan Guan; Neil Audsley; “Re-thinking mixed-criticality architecture for automotive industry,” 2020 IEEE 38th International Conference on Computer Design (ICCD), Hartford, US, 2020.
+- year: 2020
+  type: journal
+  label: TECS
+  rank: CCF-B
+  citation: |-
+    Wanli Chang, Ran Wei, **Shuai Zhao**, Andy Wellings, Jim Woodcock, Alan Burns; "Development Automation of Real-Time Java: Model-Driven Transformation and Synthesis", ACM Transactions on Embedded Computing Systems (TECS), 19(6), pp. 43:1-43:25, 2020.
+- year: 2019
+  type: journal
+  label: JSS
+  rank: CCF-B
+  citation: |-
+    Ran Wei, Tim P. Kelly, Xiaotian Dai, **Shuai Zhao**, Richard Hawkins; "Model based system assurance using the structured assurance case metamodel", Journal of Systems and Software (JSS), 154, pp. 211-233, 2019.
+- year: 2019
+  type: journal
+  label: TECS
+  rank: CCF-B
+  citation: |-
+    Xiaotian Dai, Wanli Chang, **Shuai Zhao**, Alan Burns; "A Dual-Mode Strategy for Performance-Maximisation and Resource-Efficient CPS Design", ACM Transactions on Embedded Computing Systems (TECS), 18(5s), pp. 85:1-85:20, 2019.
+- year: 2019
+  type: conference
+  label: GECCO'19
+  rank: CCF-C
+  citation: |-
+    **Shuai Zhao**, Piotr Dziurzanski, Michal Przewozniczek, Marcin Komarnicki, Leandro Soares Indrusiak; "Cloud-based dynamic distributed optimisation of integrated process planning and scheduling in smart factories", Genetic and Evolutionary Computation Conference (GECCO), 2019, pp. 1381-1389.
+- year: 2019
+  type: conference
+  label: LCTES'19
+  rank: CCF-B
+  citation: |-
+    Wanli Chang, **Shuai Zhao**, Ran Wei, Andy Wellings, Alan Burns; "From Java to real-time Java: a model-driven methodology with automated toolchain (invited paper)", ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES), 2019, pp. 123-134.
+- year: 2017
+  type: journal
+  label: CCPE
+  rank: CCF-C
+  citation: |-
+    Martin Schoeberl, Andreas Engelbredt Dalsgaard, René Rydhof Hansen, Stephan Erbs Korsholm, Anders P. Ravn, Juan Ricardo Rios Rivas, Tórur Biskopstø Strøm, Hans Søndergaard, Andy Wellings, **Shuai Zhao**; "Safety-critical Java for embedded systems", Concurrency and Computation: Practice and Experience, 29(22), 2017.

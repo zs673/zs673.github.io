@@ -1,0 +1,179 @@
+/* ==========================================================================
+   Site customizations
+   ========================================================================== */
+
+html {
+  font-size: 15px;
+
+  @include breakpoint($medium) {
+    font-size: 16px;
+  }
+}
+
+body {
+  line-height: 1.55;
+}
+
+#main {
+  margin-top: 1.5em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+
+  @include breakpoint($large) {
+    max-width: 1180px;
+  }
+
+  @include breakpoint($x-large) {
+    max-width: 1360px;
+  }
+}
+
+.masthead__inner-wrap {
+  @include breakpoint($large) {
+    max-width: 1180px;
+  }
+
+  @include breakpoint($x-large) {
+    max-width: 1360px;
+  }
+}
+
+.sidebar {
+  @include breakpoint($large) {
+    width: 220px;
+    padding-right: 1rem;
+  }
+
+  @include breakpoint($x-large) {
+    width: 240px;
+  }
+
+  p,
+  li {
+    font-size: 0.78rem;
+    line-height: 1.4;
+  }
+}
+
+.sidebar .author__name {
+  font-size: 0.95rem;
+  line-height: 1.25;
+}
+
+.page {
+  @include breakpoint($large) {
+    float: right;
+    width: calc(100% - 250px);
+    max-width: 940px;
+    padding-left: 1rem;
+    padding-right: 0;
+  }
+
+  @include breakpoint($x-large) {
+    width: calc(100% - 270px);
+    max-width: 1040px;
+  }
+}
+
+.page__content {
+  font-size: 0.94rem;
+  line-height: 1.52;
+
+  h2 {
+    margin-top: 1.55em;
+    margin-bottom: 0.65em;
+    padding-bottom: 0.35em;
+    font-size: 1.18em;
+    line-height: 1.25;
+  }
+
+  h3 {
+    margin-top: 1.35em;
+    margin-bottom: 0.45em;
+    font-size: 1.03em;
+    line-height: 1.25;
+  }
+
+  p {
+    margin-bottom: 0.9em;
+  }
+
+  ul,
+  ol {
+    margin-top: 0.25em;
+    margin-bottom: 0.9em;
+    padding-left: 1.25em;
+  }
+
+  li {
+    margin-bottom: 0.35em;
+  }
+
+  li > p {
+    margin-top: 0;
+    margin-bottom: 0.35em;
+  }
+}
+
+.page__content #about {
+  margin-top: 0;
+}
+
+.page__content #news + ul,
+.page__content #services + ul,
+.page__content #teaching + ul {
+  line-height: 1.45;
+}
+
+.page__content #publications {
+  margin-top: 1.8em;
+}
+
+.page__content #conference-papers,
+.page__content #journal-papers {
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+.page__content #publications ~ ul,
+.page__content #publications ~ ol {
+  padding-left: 1.1em;
+  font-size: 0.84rem;
+  line-height: 1.38;
+}
+
+.page__content #publications ~ ul li,
+.page__content #publications ~ ol li {
+  margin-bottom: 0.45em;
+}
+
+.page__content #publications ~ ul li p,
+.page__content #publications ~ ol li p {
+  margin-bottom: 0.25em;
+}
+
+.pub-label {
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+.pub-label {
+  color: $darker-gray;
+}
+
+@include breakpoint(max-width $large) {
+  #main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .page__content {
+    font-size: 0.96rem;
+  }
+
+  .page__content #publications ~ ul,
+  .page__content #publications ~ ol {
+    font-size: 0.9rem;
+    line-height: 1.45;
+  }
+}

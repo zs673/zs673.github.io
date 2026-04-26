@@ -1,0 +1,18 @@
+{% assign conference_years = site.data.publications | where: "type", "conference" | group_by: "year" | sort: "name" | reverse %}
+{% assign journal_years = site.data.publications | where: "type", "journal" | group_by: "year" | sort: "name" | reverse %}
+
+### Conference Papers
+
+{% for year in conference_years %}
+{% for publication in year.items %}
+- <span class="pub-label">[{{ publication.label | replace: "'", "&#39;" }}]</span> {{ publication.citation }}
+{% endfor %}
+{% endfor %}
+
+### Journal Papers
+
+{% for year in journal_years %}
+{% for publication in year.items %}
+- <span class="pub-label">[{{ publication.label | replace: "'", "&#39;" }}]</span> {{ publication.citation }}
+{% endfor %}
+{% endfor %}
