@@ -161,6 +161,10 @@ body {
   color: $darker-gray;
 }
 
+.pub-label--conference {
+  font-weight: 700;
+}
+
 @include breakpoint(max-width $large) {
   #main {
     padding-left: 1rem;

@@ -5,7 +5,7 @@
 
 {% for year in conference_years %}
 {% for publication in year.items %}
-- <span class="pub-label">[{{ publication.label | replace: "'", "&#39;" }}]</span> {{ publication.citation }}
+- <span class="pub-label pub-label--conference">[{{ publication.label | replace: "'", "&#39;" }}]</span> {{ publication.citation }}
 {% endfor %}
 {% endfor %}
 

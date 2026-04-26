@@ -275,6 +275,12 @@
   citation: |-
     Wanli Chang, **Shuai Zhao**, Ran Wei, Andy Wellings, Alan Burns; "From Java to real-time Java: a model-driven methodology with automated toolchain (invited paper)", ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES), 2019, pp. 123-134.
 - year: 2017
+  type: conference
+  label: RTCSA'17
+  rank: CCF-N/A
+  citation: |-
+    **Shuai Zhao**, Jorge Garrido, Alan Burns, Andy Wellings; "New schedulability analysis for MrsP", IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2017, pp. 1-10.
+- year: 2017
   type: journal
   label: CCPE
   rank: CCF-C
