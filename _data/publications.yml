@@ -281,8 +281,26 @@
   citation: |-
     **Shuai Zhao**, Jorge Garrido, Alan Burns, Andy Wellings; "New schedulability analysis for MrsP", IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), 2017, pp. 1-10.
 - year: 2017
+  type: conference
+  label: Ada-Europe'17
+  rank: CCF-N/A
+  citation: |-
+    Jorge Garrido, **Shuai Zhao**, Alan Burns, Andy Wellings; "Supporting Nested Resources in MrsP", International Conference on Reliable Software Technologies - Ada-Europe, 2017, pp. 73-86.
+- year: 2017
   type: journal
   label: CCPE
   rank: CCF-C
   citation: |-
     Martin Schoeberl, Andreas Engelbredt Dalsgaard, René Rydhof Hansen, Stephan Erbs Korsholm, Anders P. Ravn, Juan Ricardo Rios Rivas, Tórur Biskopstø Strøm, Hans Søndergaard, Andy Wellings, **Shuai Zhao**; "Safety-critical Java for embedded systems", Concurrency and Computation: Practice and Experience, 29(22), 2017.
+- year: 2016
+  type: conference
+  label: SETSS'16
+  rank: CCF-N/A
+  citation: |-
+    Ana Cavalcanti, Alvaro Miyazawa, Andy Wellings, Jim Woodcock, **Shuai Zhao**; "Java in the Safety-Critical Domain", International School on Engineering Trustworthy Software Systems (SETSS), 2016, pp. 110-150.
+- year: 2015
+  type: conference
+  label: JTRES'15
+  rank: CCF-N/A
+  citation: |-
+    **Shuai Zhao**, Andy Wellings, Stephan Erbs Korsholm; "Supporting Multiprocessors in the Icecap Safety-Critical Java Run-Time Environment", International Workshop on Java Technologies for Real-time and Embedded Systems (JTRES), 2015, pp. 1:1-1:10.
