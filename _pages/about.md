@@ -17,12 +17,6 @@ My research interests include embedded and real-time systems, operating systems 
 
 
 
-News
-------
-{% include news.html %}
-
-
-
 Short Bio
 ------
 Shuai Zhao received a Ph.D. degree in computer science from the University of York in 2018. He is currently an associate professor at Sun Yat-sen University, China. His research interests include scheduling algorithms, multiprocessor resource sharing, schedulability analysis, and safety-critical programming languages. He can be reached at: zhaosh56@mail.sysu.edu.cn.

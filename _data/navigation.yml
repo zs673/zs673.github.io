@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: /#about
 
-  - title: "News"
-    url: /#news
+  # - title: "News"
+  #   url: /#news
 
-  - title: "Bio"
-    url: /#short-bio
+  # - title: "Bio"
+  #   url: /#short-bio
 
   - title: "Services"
     url: /#services
