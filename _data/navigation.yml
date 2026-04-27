@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: /#about
 
-  - title: "News"
-    url: /#news
+  # - title: "News"
+  #   url: /#news
 
   # - title: "Bio"
   #   url: /#short-bio
@@ -15,8 +15,8 @@ main:
   - title: "Teaching"
     url: /#teaching
 
-  - title: "Students"
-    url: /#students
+  # - title: "Students"
+  #   url: /#students
 
   - title: "Publications"
     url: /#publications
