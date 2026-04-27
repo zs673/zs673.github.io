@@ -13,6 +13,6 @@
 
 {% for year in journal_years %}
 {% for publication in year.items %}
-- <span class="pub-label">[{{ publication.label | replace: "'", "&#39;" }}]</span> {{ publication.citation }}
+- <span class="pub-label pub-label--journal">[{{ publication.label | replace: "'", "&#39;" }}]</span> {{ publication.citation }}
 {% endfor %}
 {% endfor %}
