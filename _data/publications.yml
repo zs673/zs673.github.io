@@ -180,12 +180,6 @@
     Benjamin Lesage, Xiaotian Dai, **Shuai Zhao**, Iain Bate; "Reducing Loss of Service for Mixed-Criticality Systems through Cache- and Stress-Aware Scheduling", Proceedings of the 31st International Conference on Real-Time Networks and Systems (RTNS), Dortmund, Germany, 2023, pp. 188-199.
 - year: 2023
   type: conference
-  label: CPS-IoT'23
-  rank: CCF-N/A
-  citation: |-
-    Zhe Jiang, Xiaotian Dai, **Shuai Zhao**, Ran Wei, Ian Gray; "Many-Core Real-Time Network-on-Chip I/O Systems for Reducing Contention and Enhancing Predictability", CPS-IoT Week Workshops, 2023, pp. 227-233.
-- year: 2023
-  type: conference
   label: RTAS'23
   rank: CCF-B
   citation: |-
@@ -250,12 +244,6 @@
   rank: CCF-N/A
   citation: |-
     Michal Witold Przewozniczek, Piotr Dziurzanski, **Shuai Zhao**, Leandro Soares Indrusiak; "Multi-Objective parameter-less population pyramid for solving industrial process planning problems", Swarm and Evolutionary Computation, 61, pp. 100773, 2021.
-- year: 2021
-  type: conference
-  label: GECCO Companion'21
-  rank: CCF-N/A
-  citation: |-
-    Michal Witold Przewozniczek, Piotr Dziurzanski, **Shuai Zhao**, Leandro Soares Indrusiak; "Multi-objective parameter-less population pyramid in solving the real-world and theoretical problems", Genetic and Evolutionary Computation Conference Companion (GECCO Companion), 2021, pp. 41-42.
 - year: 2020
   type: conference
   label: RTSS'20
@@ -346,21 +334,3 @@
   rank: CCF-N/A
   citation: |-
     Jorge Garrido, **Shuai Zhao**, Alan Burns, Andy Wellings; "Supporting Nested Resources in MrsP", International Conference on Reliable Software Technologies - Ada-Europe, 2017, pp. 73-86.
-- year: 2017
-  type: journal
-  label: CCPE
-  rank: CCF-C
-  citation: |-
-    Martin Schoeberl, Andreas Engelbredt Dalsgaard, René Rydhof Hansen, Stephan Erbs Korsholm, Anders P. Ravn, Juan Ricardo Rios Rivas, Tórur Biskopstø Strøm, Hans Søndergaard, Andy Wellings, **Shuai Zhao**; "Safety-critical Java for embedded systems", Concurrency and Computation: Practice and Experience, 29(22), 2017.
-- year: 2016
-  type: conference
-  label: SETSS'16
-  rank: CCF-N/A
-  citation: |-
-    Ana Cavalcanti, Alvaro Miyazawa, Andy Wellings, Jim Woodcock, **Shuai Zhao**; "Java in the Safety-Critical Domain", International School on Engineering Trustworthy Software Systems (SETSS), 2016, pp. 110-150.
-- year: 2015
-  type: conference
-  label: JTRES'15
-  rank: CCF-N/A
-  citation: |-
-    **Shuai Zhao**, Andy Wellings, Stephan Erbs Korsholm; "Supporting Multiprocessors in the Icecap Safety-Critical Java Run-Time Environment", International Workshop on Java Technologies for Real-time and Embedded Systems (JTRES), 2015, pp. 1:1-1:10.
