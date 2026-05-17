@@ -1,0 +1,5 @@
+{% for award_group in site.data.awards %}
+{% for award in award_group.items %}
+- {{ award }}
+{% endfor %}
+{% endfor %}

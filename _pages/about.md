@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<span id="about"></span>
 
-
-About
-------
 I am an associate professor at Sun Yat-sen University, China. I received both a Ph.D degree and a Ms.C degree at the University of York in 2014 and 2018, respectively, supervised by Prof. Andy Wellings and Prof. Alan Burns. From 2014 to 2018, I was working as a research associate on a range of projects at York with Prof. Iain Bate, Prof. Leandro S. Indrusiak, and Prof. Wanli Chang. Since 2022, I joined the Sun Yat-sen University as an associate professor at [Robotic and Intelligence Computing Lab @SYSU](https://www.usilab.cn/), in the Department of Computer Science. 
 
 My research interests include embedded and real-time systems, operating systems and domain-specific computer languages. Specifically, my interest lies in the design and verification of complex real-time systems, resource-sharing technology in multi-core systems, deterministic systems, timing-sensitive networks, and safety-critical programming.
@@ -37,6 +35,18 @@ Teaching
 
 
 
+Awards
+------
+{% include awards.html %}
+
+
+
 Publications
 ------
 {% include publications.html %}
+
+
+
+Students
+------
+{% include students.html %}

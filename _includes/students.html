@@ -1,0 +1,9 @@
+### Current
+
+**Ph.D. Students**: {% for student in site.data.students.current.phd %}{{ student.name }}{% unless forloop.last %}; {% endunless %}{% endfor %}
+
+**Master's Students**: {% for student in site.data.students.current.master %}{{ student.name }}{% unless forloop.last %}; {% endunless %}{% endfor %}
+
+### Past
+
+{% for student in site.data.students.past.master %}{{ student.name }}{% if student.destination %} ({{ student.destination }}){% endif %}{% unless forloop.last %}; {% endunless %}{% endfor %}

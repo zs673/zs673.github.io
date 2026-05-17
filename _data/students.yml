@@ -1,0 +1,33 @@
+current:
+  phd:
+    - name: Hui Zheng
+    - name: Bolun Li
+  master:
+    - name: Ruizhe Gou
+    - name: Haitong Ding
+    - name: Kaiwen Yao
+    - name: Yutong Luo
+    - name: Zhanshang Nie
+    - name: Tong Cheng
+    - name: Zhiyang Lin
+    - name: Chaowen Wu
+    - name: Chen Jie
+    - name: Yaowei Liang
+    - name: Jieyu Jiang
+    - name: Meixuan Zhang
+past:
+  master:
+    - name: Ruoxian Su
+      destination: OPPO
+    - name: Zhendong Chen
+      destination: State Grid Corporation of China
+    - name: Haoran Chen
+      destination: XPeng
+    - name: Huixuan Yi
+      destination: JD
+    - name: Shixing Wan
+      destination: Daimon Robotics
+    - name: Hanzhi Xu
+      destination: Huawei Technologies
+    - name: Yiyang Gao
+      destination: NTU
