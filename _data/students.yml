@@ -18,16 +18,16 @@ current:
 past:
   master:
     - name: Ruoxian Su
-      destination: OPPO
+      destination: OPPO@Foshan
     - name: Zhendong Chen
-      destination: State Grid Corporation of China
+      destination: SGCC@Chuzhou
     - name: Haoran Chen
-      destination: XPeng
+      destination: XPeng@Guangzhou
     - name: Huixuan Yi
-      destination: JD
+      destination: JD@Beijing
     - name: Shixing Wan
-      destination: Daimon Robotics
+      destination: Daimon Robotics@Shenzhen
     - name: Hanzhi Xu
-      destination: Huawei Technologies
+      destination: Huawei Technologies@Hangzhou
     - name: Yiyang Gao
-      destination: NTU
+      destination: NTU@Singapore
