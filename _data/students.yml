@@ -3,18 +3,39 @@ current:
     - name: Hui Zheng
     - name: Bolun Li
   master:
-    - name: Ruizhe Gou
-    - name: Haitong Ding
-    - name: Kaiwen Yao
-    - name: Yutong Luo
-    - name: Zhanshang Nie
-    - name: Tong Cheng
-    - name: Zhiyang Lin
-    - name: Chaowen Wu
-    - name: Chen Jie
-    - name: Yaowei Liang
     - name: Jieyu Jiang
+      year: 3
+    - name: Chen Jie
+      year: 3
+    - name: Yaowei Liang
+      year: 3
+    - name: Chaowen Wu
+      year: 3
     - name: Meixuan Zhang
+      year: 3
+    - name: Tong Cheng
+      year: 2
+    - name: Ye Duan
+      year: 2
+    - name: Songyang He
+      year: 2
+    - name: Zhiyang Lin
+      year: 2
+    - name: Zhanshang Nie
+      year: 2
+    - name: Haitong Ding
+      year: 1
+    - name: Yutong Luo
+      year: 1
+    - name: Ruizhe Gou
+      year: 1
+    - name: Kaiwen Yao
+      year: 1
+  pre_master:
+    - name: Yuhe Wang
+  undergraduate:
+    - name: Yixin Duan
+    - name: Dekai Liu
 past:
   master:
     - name: Ruoxian Su

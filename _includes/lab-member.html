@@ -1,0 +1,5 @@
+{% assign portrait = site.data.portraits[include.person.name] %}
+<div class="lab-member{% unless portrait %} lab-member--text{% endunless %}">
+  {% if portrait %}<img class="lab-portrait" src="{{ portrait | relative_url }}" alt="{{ include.person.name | escape }}" width="96" height="112" loading="lazy">{% endif %}
+  <div><h3>{{ include.person.name }}</h3><p>{% if include.person.destination %}{{ include.person.destination }}{% else %}{{ include.role }}{% endif %}</p></div>
+</div>

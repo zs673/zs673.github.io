@@ -13,7 +13,13 @@ I am an associate professor at Sun Yat-sen University, China. I received both a 
 
 My research interests include embedded and real-time systems, operating systems and domain-specific computer languages. Specifically, my interest lies in the design and verification of complex real-time systems, resource-sharing technology in multi-core systems, deterministic systems, timing-sensitive networks, and safety-critical programming.
 
+<div class="lab-home-link" markdown="1">
+**RTS-SYSU · Real-Time Systems Group**
 
+Meet [our members]({{ "/lab/" | relative_url }}) and explore opportunities to join the group.
+
+We’re recruiting! [Get in touch]({{ "/lab/" | relative_url }}#join) to learn more.
+</div>
 
 Short Bio
 ------
@@ -21,17 +27,16 @@ Shuai Zhao received a Ph.D. degree in computer science from the University of Yo
 
 
 
+Teaching
+------
+{% include courses.html %}
+
+
+
 Services
 ------
 - I am a TPC member of DAC'26, RTSS'24, DAC'24, RTSS BP track, RTAS industrial track, Euro DSD
 - I am a frequent reviewer of RTSS, DAC, RTAS, EMSOFT, DATE, LCETS, ICCAD, CODE+ISSS, RTCAS, MICPRO, TCAD, JSA.
-
-
-
-Teaching
-------
-- "*Compilation Theory*" and "*Compiler Construction*" for 3rd year undergraduates.
-- "*Embedded Systems*" for 1st year postgraduates.
 
 
 
@@ -44,9 +49,3 @@ Awards
 Publications
 ------
 {% include publications.html %}
-
-
-
-Students
-------
-{% include students.html %}

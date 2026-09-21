@@ -1,0 +1,55 @@
+---
+layout: default
+title: RTS-SYSU · Real-Time Systems Group
+permalink: /lab/
+description: Meet the RTS-SYSU team and get in touch.
+---
+<main id="main" class="lab-page">
+  <header class="lab-intro">
+    <p class="lab-eyebrow">Sun Yat-sen University · Guangzhou</p>
+    <h1>RTS-SYSU</h1>
+    <p class="lab-subtitle">Real-Time Systems Group</p>
+    <p>We study how to make computing systems predictable, efficient, and dependable—from multicore resource sharing and scheduling to embedded systems and safety-critical software.</p>
+    <section id="join" class="lab-recruitment" aria-labelledby="join-heading">
+      <h2 id="join-heading">Join the group</h2>
+      <p>We welcome enquiries about postdoctoral, Ph.D., and master’s opportunities. Undergraduate students are also welcome to enquire about research internships.</p>
+      <p><a class="lab-email" href="mailto:zhaosh56@mail.sysu.edu.cn">zhaosh56@mail.sysu.edu.cn</a></p>
+    </section>
+  </header>
+  <section id="people" class="lab-section">
+    <h2>People</h2>
+    {% assign phd_students = site.data.students.current.phd | sort: "name" %}
+    {% assign master_students = site.data.students.current.master | concat: site.data.students.current.pre_master %}
+    {% assign pre_master_names = site.data.students.current.pre_master | map: "name" %}
+    {% assign undergraduate_students = site.data.students.current.undergraduate %}
+    <div class="lab-members">
+      {% for student in phd_students %}
+        {% include lab-member.html person=student role="Ph.D. student" %}
+      {% endfor %}
+      {% for student in master_students %}
+        {% if pre_master_names contains student.name %}
+          {% include lab-member.html person=student role="Pre-master student" %}
+        {% else %}
+          {% include lab-member.html person=student role="Master student" %}
+        {% endif %}
+      {% endfor %}
+      {% for student in undergraduate_students %}
+        {% include lab-member.html person=student role="Undergraduate research student" %}
+      {% endfor %}
+    </div>
+    <details class="lab-alumni"><summary>Alumni &amp; destinations</summary>
+      <div class="lab-members">
+        {% assign alumni = site.data.students.past.master | sort: "name" %}
+        {% for student in alumni %}
+          {% include lab-member.html person=student role="Alumnus" %}
+        {% endfor %}
+      </div>
+    </details>
+  </section>
+  {% comment %}Temporarily hidden; remove this comment wrapper to restore student awards and achievements.
+  <section id="awards" class="lab-section">
+    <h2>Student awards &amp; achievements</h2>
+    <ul class="lab-awards">{% for award in site.data.lab.awards %}<li>{{ award }}</li>{% endfor %}</ul>
+  </section>
+  {% endcomment %}
+</main>

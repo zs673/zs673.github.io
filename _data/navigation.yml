@@ -9,17 +9,17 @@ main:
   - title: "Awards"
     url: /#awards
 
-  - title: "Services"
-    url: /#services
-
   - title: "Teaching"
     url: /#teaching
+
+  - title: "Services"
+    url: /#services
 
   - title: "Publications"
     url: /#publications
 
-  - title: "Students"
-    url: /#students
+  - title: "Lab"
+    url: /lab/
 
   # - title: "Talks"
   #   url: /talks/    

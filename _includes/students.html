@@ -2,7 +2,11 @@
 
 **Ph.D. Students**: {% for student in site.data.students.current.phd %}{{ student.name }}{% unless forloop.last %}; {% endunless %}{% endfor %}
 
-**Master's Students**: {% for student in site.data.students.current.master %}{{ student.name }}{% unless forloop.last %}; {% endunless %}{% endfor %}
+**Master Students**: {% for student in site.data.students.current.master %}{{ student.name }}{% unless forloop.last %}; {% endunless %}{% endfor %}
+
+**Pre-master Students**: {% for student in site.data.students.current.pre_master %}{{ student.name }}{% unless forloop.last %}; {% endunless %}{% endfor %}
+
+**Undergraduate Research Students**: {% for student in site.data.students.current.undergraduate %}{{ student.name }}{% unless forloop.last %}; {% endunless %}{% endfor %}
 
 ### Past
 
