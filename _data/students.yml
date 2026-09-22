@@ -33,6 +33,7 @@ current:
       year: 1
   pre_master:
     - name: Yuhe Wang
+    - name: Xuanming Liu
   undergraduate:
     - name: Yixin Duan
     - name: Dekai Liu
