@@ -6,14 +6,14 @@ main:
   # - title: "Bio"
   #   url: /#short-bio
 
-  - title: "Awards"
-    url: /#awards
-
   - title: "Teaching"
     url: /#teaching
 
   - title: "Services"
     url: /#services
+
+  - title: "Awards"
+    url: /#awards
 
   - title: "Publications"
     url: /#publications
