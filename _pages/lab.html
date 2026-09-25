@@ -36,17 +36,18 @@ description: Meet the RTS-SYSU team and get in touch.
         {% include lab-member.html person=student role="Undergraduate research student" %}
       {% endfor %}
     </div>
-    <details class="lab-alumni"><summary>Alumni &amp; destinations</summary>
+    <section class="lab-alumni" aria-labelledby="alumni-heading">
+      <h2 id="alumni-heading">Alumni &amp; destinations</h2>
       <div class="lab-members">
         {% assign alumni = site.data.students.past.master | sort: "name" %}
         {% for student in alumni %}
           {% include lab-member.html person=student role="Alumnus" %}
         {% endfor %}
       </div>
-    </details>
+    </section>
   </section>
   <section id="awards" class="lab-section">
-    <h2>Student awards &amp; achievements</h2>
+    <h2>Student Competition Awards</h2>
     <ul class="lab-awards">{% for award in site.data.lab.awards %}<li>{{ award }}</li>{% endfor %}</ul>
   </section>
 </main>
