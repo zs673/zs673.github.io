@@ -1,5 +1,11 @@
 - year: 2026
   type: conference
+  label: RTSS'26
+  rank: CCF-A
+  citation: |-
+    N. Chen, X. Dai, A. Burns, I. Bate, **Shuai Zhao**; "PAPS: Predictable and Adaptive Priority Scheme for Latency-Aware Scheduling under AoI Constraints", 47th IEEE Real-Time Systems Symposium, Yokohama, Japan, 2026.
+- year: 2026
+  type: conference
   label: ICML'26
   rank: CCF-A
   citation: |-
