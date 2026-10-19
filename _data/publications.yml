@@ -3,61 +3,61 @@
   label: RTSS'26
   rank: CCF-A
   citation: |-
-    N. Chen, X. Dai, A. Burns, I. Bate, **Shuai Zhao**; "PAPS: Predictable and Adaptive Priority Scheme for Latency-Aware Scheduling under AoI Constraints", 47th IEEE Real-Time Systems Symposium, Yokohama, Japan, 2026.
+    N. Chen, X. Dai, A. Burns, I. Bate, **S. Zhao**; "PAPS: Predictable and Adaptive Priority Scheme for Latency-Aware Scheduling under AoI Constraints", 47th IEEE Real-Time Systems Symposium, Yokohama, Japan, 2026.
 - year: 2026
   type: conference
   label: ICCAD'26
   rank: CCF-B
   citation: |-
-    **Shuai Zhao**, Y Liang, C Jie, Y Fang, M Cui, L Yang, W Chang; "Precise Contention Analysis for GPU L1 Data Cache", IEEE/ACM International Conference on Computer-Aided Design, 2026.
+    **S. Zhao**, Y. Liang, C. Jie, Y. Fang, M. Cui, L. Yang, W. Chang; "Precise Contention Analysis for GPU L1 Data Cache", IEEE/ACM International Conference on Computer-Aided Design, 2026.
 - year: 2026
   type: journal
   label: JSA
   rank: CCF-B
   citation: |-
-    M Cui, M Przewozniczek, H Chen, P Dziurzanski, M Komarnicki, L S Indrusiak, Z Zhou, D Guo, X Chen, **Shuai Zhao**; "An Island-based Optimization Framework for Process Planning and Scheduling using Migrations with Empirical Linkage", Journal of Systems Architecture, 2026.
+    M. Cui, M. Przewozniczek, H. Chen, P. Dziurzanski, M. Komarnicki, L. S. Indrusiak, Z. Zhou, D. Guo, X. Chen, **S. Zhao**; "An Island-based Optimization Framework for Process Planning and Scheduling using Migrations with Empirical Linkage", Journal of Systems Architecture, 2026.
 - year: 2026
   type: journal
   label: TPDS
   rank: CCF-A
   citation: |-
-    N Chen, X Dai, T Cheng, A Burns, I Bate, **Shuai Zhao**; "CAFT-RS: Fault-Tolerant Resource Sharing Protocols with Diverse Preemption Schemes", IEEE Transactions on Parallel and Distributed Systems, 2026.
+    N. Chen, X. Dai, T. Cheng, A. Burns, I. Bate, **S. Zhao**; "CAFT-RS: Fault-Tolerant Resource Sharing Protocols with Diverse Preemption Schemes", IEEE Transactions on Parallel and Distributed Systems, 2026.
 - year: 2026
   type: conference
   label: ICML'26
   rank: CCF-A
   citation: |-
-    Z Li, **Shuai Zhao**, C Wu, B Li, K Huang; "UAV2: A Unified and Adaptive Scheduling Framework for UAV Autopilot Systems with Reinforcement Learning", Forty-Third International Conference on Machine Learning, 2026.
+    Z. Li, **S. Zhao**, C. Wu, B. Li, K. Huang; "UAV2: A Unified and Adaptive Scheduling Framework for UAV Autopilot Systems with Reinforcement Learning", Forty-Third International Conference on Machine Learning, 2026.
 - year: 2026
   type: journal
   label: TCAD
   rank: CCF-A
   citation: |-
-    B Li, Z Jin, **Shuai Zhao**, J Liao, T Liu, H Liu, Y Zhang, K Huang; "E-Navi: Environmental-Adaptive Navigation for UAVs on Resource-Constrained Platforms", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026.
+    B. Li, Z. Jin, **S. Zhao**, J. Liao, T. Liu, H. Liu, Y. Zhang, K. Huang; "E-Navi: Environmental-Adaptive Navigation for UAVs on Resource-Constrained Platforms", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026.
 - year: 2026
   type: journal
   label: TCAD
   rank: CCF-A
   citation: |-
-    Y Zhang, **Shuai Zhao**, K Huang; "DAG Scheduling and Analysis in Multicore Real-Time Systems via Sub-Graph Division", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026.
+    Y. Zhang, **S. Zhao**, K. Huang; "DAG Scheduling and Analysis in Multicore Real-Time Systems via Sub-Graph Division", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026.
 - year: 2026
   type: conference
   label: DAC'26
   rank: CCF-A
   citation: |-
-    **Shuai Zhao**, C Jie, Y Liang, M Cui, X Dai, N Chen, "Beyond Exact: Tight WCET Analysis of GPU Kernels with Branch Divergence", Design Automation Conference, 2026.
+    **S. Zhao**, C. Jie, Y. Liang, M. Cui, X. Dai, N. Chen, "Beyond Exact: Tight WCET Analysis of GPU Kernels with Branch Divergence", Design Automation Conference, 2026.
 - year: 2026
   type: conference
   label: DAC'26
   rank: CCF-A
   citation: |-
-    Y Zhang, S He, R Gou, M Cui, B Li, **Shuai Zhao**, K Huang. "Exploiting Dependency and Parallelism: Real-Time Scheduling and Analysis for GPU Tasks", Design Automation Conference, 2026.
+    Y. Zhang, S. He, R. Gou, M. Cui, B. Li, **S. Zhao**, K. Huang. "Exploiting Dependency and Parallelism: Real-Time Scheduling and Analysis for GPU Tasks", Design Automation Conference, 2026.
 - year: 2026
   type: journal
   label: TCAD
   rank: CCF-A
   citation: |-
-    Z Jiang, X Wang, Z Guo, R Jiang, P Dong, **Shuai Zhao**, N Guan; "MCS3: A Mixed-Criticality System with Suspension-awareness and Semi-clairvoyance for Edge Computing", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026.
+    Z. Jiang, X. Wang, Z. Guo, R. Jiang, P. Dong, **S. Zhao**, N. Guan; "MCS3: A Mixed-Criticality System with Suspension-awareness and Semi-clairvoyance for Edge Computing", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2026.
 - year: 2026
   type: conference
   label: DATE'26
